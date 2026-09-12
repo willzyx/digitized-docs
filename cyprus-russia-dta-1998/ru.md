@@ -5,7 +5,7 @@ title: "Cyprus–Russia double taxation agreement (1998) — Russian text"
 # Соглашение между Правительством Республики Кипр и Правительством Российской Федерации об избежании двойного налогообложения в отношении налогов на доходы и капитал
 
 > Russian text of the agreement, pages 142–170 of the edition.
-> Signed at Nicosia on 5 December 1998. [Document page](index.md) · [English text](en.md) · [scan](source/scan.pdf)
+> Signed at Nicosia on 5 December 1998. [Document page](index.md) · [English text](en.md) · [scan](https://github.com/willzyx/digitized-docs/releases/download/cyprus-russia-dta-1998/cyprus-russia-dta-1998.pdf)
 
 Правительство Республики Кипр и Правительство Российской Федерации, желая заключить Соглашение об избежании двойного налогообложения в отношении налогов на доходы и капитал, и с целью поощрения экономического сотрудничества между двумя странами,
 

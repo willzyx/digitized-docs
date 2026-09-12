@@ -5,7 +5,7 @@ title: "Cyprus–Russia double taxation agreement (1998) — English text"
 # Agreement between the Government of the Republic of Cyprus and the Government of the Russian Federation for the avoidance of double taxation with respect to taxes on income and on capital
 
 > English text of the agreement, pages 117–141 of the edition.
-> Signed at Nicosia on 5 December 1998. [Document page](index.md) · [Russian text](ru.md) · [scan](source/scan.pdf)
+> Signed at Nicosia on 5 December 1998. [Document page](index.md) · [Russian text](ru.md) · [scan](https://github.com/willzyx/digitized-docs/releases/download/cyprus-russia-dta-1998/cyprus-russia-dta-1998.pdf)
 
 The Government of the Republic of Cyprus and the Government of the Russian Federation, desiring to conclude an Agreement for the avoidance of double taxation with respect to taxes on income and on capital and with a view to promote economic cooperation between the two countries
 
