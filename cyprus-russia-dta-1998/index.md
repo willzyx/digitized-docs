@@ -42,7 +42,9 @@ Read the PDF straight through and the Russian half runs backwards.
 ## How it was digitized
 
 Pages were rendered to 300 dpi PNG and put through Tesseract 4.1.1 (`-l eng` and `-l rus`,
-`--psm 6`), after which all 54 pages were proofread by hand against their images.
+`--psm 6`), after which all 54 pages were read back against their images by an AI model
+(Claude Opus 5) and the OCR output corrected. No human has checked the result line by line — the
+scan is linked above, and anything that turns on exact wording should be verified against it.
 
 Checks run on the assembled text: both versions carry exactly 30 articles, the numbering is
 unbroken, and the article headings line up in pairs. Every figure was verified separately — the
