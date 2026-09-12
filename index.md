@@ -30,4 +30,4 @@ The point of the archive is for the text to match the paper, not to improve on i
 
 Official documents — statutes, international treaties and similar acts — are not subject to
 copyright. No rights are claimed over the digitization either: this archive is released under
-[CC0 1.0](LICENSE), that is, dedicated to the public domain.
+[CC0 1.0](https://github.com/willzyx/digitized-docs/blob/main/LICENSE), that is, dedicated to the public domain.
