@@ -1,0 +1,6 @@
+title: Digitized documents
+description: Scanned official documents, OCR'd and proofread by hand
+theme: jekyll-theme-primer
+lang: en
+exclude:
+  - README.md
